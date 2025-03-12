@@ -1,3 +1,5 @@
+https://btcproj.streamlit.app/
+
 # 📊 Dashboard de Dados do Bitcoin e Mineração
 
 Este projeto é um **dashboard interativo** desenvolvido em Python para monitorar dados do Bitcoin e informações sobre mineração. Ele é dividido em duas páginas principais:
